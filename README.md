@@ -1,2 +1,0 @@
-# LearningVue
-Created with CodeSandbox
